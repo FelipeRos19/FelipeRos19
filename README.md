@@ -4,7 +4,7 @@
 
 ## Redes Sociais<br>
 <a href="https://github.com/FelipeSz19/FelipeSz19">
-<img alt="GitHub FelipeSz" width="25px" src="https://raw.githubusercontent.com/FelipeSz19/FelipeSz19/master/assets/github.svg">
+<img alt="GitHub FelipeSz" width="25px" src="https://raw.githubusercontent.com/FelipeSz19/FelipeSz19/main/assets/github.svg">
 </div>
 
             
