@@ -1,5 +1,11 @@
 <div align="center">
     
-# Hi 👋, I'm Felipe
+# Olá 👋, Eu sou o Felipe!
+
+</div><br><br>
+<div align="center>
+            
+## Redes Sociais
 
 </div>
+
