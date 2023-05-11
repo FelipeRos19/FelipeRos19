@@ -29,8 +29,8 @@
     
 ### Estatísticas 
 
-<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeRos19&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeRos19&layout=compact&langs_count=7&theme=codeSTACKr"/>
+<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeRos19&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/><br>
+<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeRos19&layout=compact&langs_count=4&theme=codeSTACKr"/>
 
 </div>
 
