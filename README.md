@@ -24,7 +24,6 @@
 <img height="50em" src="https://img.icons8.com/?size=512&id=61466&format=png"/> 
 <img height="50em" src="https://img.icons8.com/?size=512&id=9OGIyU8hrxW5&format=png"/>
 <img height="50em" src="https://img.icons8.com/?size=512&id=20906&format=png"/>
-<img height="50em" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png"/>
 <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/2048px-DataGrip.svg.png"/>
     
 ### Estatísticas 
